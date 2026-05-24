@@ -3,7 +3,7 @@ title: Hello, World
 date: 2026-05-16
 slug: hello-world
 tags:
-  - daliy
+  - daily
 category: life
 description: 这个博客的第一篇文章，记录建站的一点想法。
 ---
